@@ -172,7 +172,7 @@
             <a href="#" target="blank"><i class="fa-brands fa-twitter"></i>twitter</a>
         </div>
     </div>
-    <div class="credit"> created by <span> group-10</span></div>
+    <div class="credit"> created by <span> Kalyan</span></div>
 </section>
 
     <!-- footer section ends -->
