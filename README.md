@@ -27,7 +27,7 @@ Doctor Features
 Clone the project
 
 ```bash
-  git clone https://github.com/KALYAN1045/Online-Doctor-Appointment-Website
+  git clone https://github.com/KALYAN1045/Online-Doctor-Appointment-Website.git
 ```
 
 
