@@ -1,9 +1,9 @@
 
-[![Screenshot-2023-05-27-175213.png](https://i.postimg.cc/VvC95PkL/Screenshot-2023-05-27-175213.png)](https://postimg.cc/WqsqfKZQ)
+
 
 
 # 🩺 Online Doctor Appointment
-
+[![Screenshot-2023-05-27-175213.png](https://i.postimg.cc/VvC95PkL/Screenshot-2023-05-27-175213.png)](https://postimg.cc/WqsqfKZQ)
 Doctor Consultancy System (DCS) is a platform aimed at improving the accessibility and efficiency of healthcare services. The system provides a convenient and secure online platform for patients to connect with licensed medical professionals and seek consultation using faster booking. DCS enables patients to book appointments, consult with doctors.
 
 
